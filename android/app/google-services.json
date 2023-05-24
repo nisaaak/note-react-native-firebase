@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201457063937",
+    "project_id": "latihan-fee31",
+    "storage_bucket": "latihan-fee31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201457063937:android:1a517926c872527a60c800",
+        "android_client_info": {
+          "package_name": "com.latihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201457063937-7s739gpudfhvinlbpsgeihokqq2roacc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9USvC5BXoYYuOX26evPmDJ1qNtp9KSJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201457063937-7s739gpudfhvinlbpsgeihokqq2roacc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
