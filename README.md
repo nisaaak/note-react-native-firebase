@@ -1,5 +1,5 @@
 # note-react-native-firebase
-Catatanku: aplikasi untuk membantu mengatur  list todo yang perlu kamu dikerjakan
+Catatanku: aplikasi untuk membantu mengatur  list todo yang perlu kamu kerjakan
 
 Fitur:
 - Simpan rencanamu di cloud
